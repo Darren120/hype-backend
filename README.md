@@ -3,5 +3,5 @@
 To start server in development:
 ```bash
 npm run start:dev
-
+```
 Link to emulator repo: https://github.com/Darren120/HypeEmulator
